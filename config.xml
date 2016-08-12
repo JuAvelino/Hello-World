@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+ xmlns:gap="http://phonegap.com/ns/1.0"
+ id="br.fib.lp5.Aula1" Version="1.0.0">
+ <name>LP5-Aula1</name>
+ <description>LP5 Aula 1</description>
+ <author href="http://seusite.com"
+ email="email@servidor">
+ Seu nome
+ </author>
+</widget>
